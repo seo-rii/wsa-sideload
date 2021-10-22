@@ -1,0 +1,1 @@
+pyinstaller --onefile --add-data="adb/*;adb" main.py --windowed --icon="logo.ico"

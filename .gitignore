@@ -1,0 +1,5 @@
+.idea/**/*
+main.spec
+*.pyc
+build/**/*
+dist/**/*
